@@ -57,8 +57,8 @@ console.log(css);
 {
   prefix: {
     type: 'class',
-    scopedName: 'cool_gQhnX',
-    selector: '.cool_gQhnX',
+    scopedName: 'prefix_gQhnX',
+    selector: '.prefix_gQhnX',
   }
 }
 */
@@ -128,5 +128,5 @@ Tooling
 -------
 
 ### Extract CSS for a static bundle
-### Automatically injext CSS
+### Automatically inject CSS
 ### Syntax Highlighting
